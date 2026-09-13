@@ -19,10 +19,6 @@ Le pipeline collecte les données météorologiques en temps réel pour 8 grande
 <img width="1137" height="566" alt="image" src="https://github.com/user-attachments/assets/9b65fed6-7613-48aa-a940-bdf87c748e68" />
 
 
-**Cloud SQL Postgresql**
-<img width="1918" height="923" alt="image" src="https://github.com/user-attachments/assets/2de8cd02-7e94-42ef-80be-bb6afbfc44b2" />
-
-
 **🏗️ Dashboard**
 
 <img width="861" height="686" alt="image" src="https://github.com/user-attachments/assets/8e85cdaa-b65d-466b-b01a-db211a0f6870" />
